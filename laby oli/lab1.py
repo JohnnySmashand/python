@@ -2,7 +2,7 @@
 Otwieram git basha i pisze tak:
 cd "ścieżka do mojego folderu" (tworze se nowy)
 git init
-git remote add origin https://github.com/s102120/siwb102120.git (tutaj bedzie inny, tworze nowe repozytorium na github)
+git remote add origin https://github.com/JohnnySmashand/test.git (tutaj bedzie inny, tworze nowe repozytorium na github)
 git add nazwa_pliku istniejacego w folderze
 git commit -m "cos tam"
 git push -u origin master/main (wrzuca mi na github)
